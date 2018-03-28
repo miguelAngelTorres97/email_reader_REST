@@ -1,0 +1,21 @@
+.mail-field-sm{
+    width: 75px  !important;
+}
+.mail-field-md{
+    width: 220px  !important;
+}
+.tx-center{
+    text-align: center;
+}
+.pl-neg-5{
+    padding-left:-15px !important;
+}
+
+.mail-fields{
+    font-weight: 400;
+    color: white !important;
+}
+.mail-msg{
+    font-weight: 400;
+    color: black;
+}
